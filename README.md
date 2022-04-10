@@ -6,4 +6,4 @@ During the course challenges are given and in this repository i just put the one
 
 ## Project 9
 
-i chose to use a onTapGesture to capture the location where the gradient should have its origin. Just tap anywhere in the rectangle. the endPoint fo the gradient will be set to the exact opposite location.
+I chose to use a onTapGesture to capture the location where the gradient should have its origin. Just tap anywhere in the rectangle. The endPoint for the gradient will be set to the exact opposite location.
