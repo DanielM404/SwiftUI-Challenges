@@ -7,3 +7,7 @@ During the course challenges are given and in this repository i just put the one
 ## Drawing
 
 I chose to use a onTapGesture to capture the location where the gradient should have its origin. Just tap anywhere in the rectangle. The endPoint for the gradient will be set to the exact opposite location.
+
+## edutainment
+
+Should be an app for kids to practice multiplications. Grphically in the sense for an app for kids there is still lot of room to improve.
