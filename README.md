@@ -10,4 +10,4 @@ I chose to use a onTapGesture to capture the location where the gradient should 
 
 ## edutainment
 
-Should be an app for kids to practice multiplications. Grphically in the sense for an app for kids there is still lot of room to improve.
+Should be an app for kids to practice multiplications. Graphically, in the sense for an app for kids, there is still lot of room to improve.
