@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Swift & SwiftUI with HackingWithSwift's 100 Days of SwiftUI
 
 During the course challenges are given and a selection of those are in here.
+All projects are supposed to work on iPhone 12 Pro portrait only. No guarantee that it looks and behaves as intended on any other device.
 
 ## Drawing
 
